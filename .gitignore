@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Notes for whoever runs the exercise, kept out of the repo
+INTERVIEWER-NOTES.md
